@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+
+# D-Bus System Message Bus configuration
+dbus-1/
+
+# PulseAudio sound server configuration
+pulse/
+
+# Virtual env project specific files
+hologram/
