@@ -4,6 +4,8 @@
 
 Welcome to the "Adele in Vegas" project, an immersive and interactive experience created to bring a slice of Adele's Las Vegas concert into your home. This project is based on the Pepper's Ghost principle, an illusion technique used in theater and magic tricks to create ghostly images. It's perfect for fans of Adele or anyone who loves a bit of showmanship and technology melded together.
 
+My source if insparation came from this article at Element14 [Element14 Holo Pyramid Project](https://community.element14.com/challenges-projects/design-challenges/picasso/b/blog/posts/hologram-pi-ramid---project-complete)
+
 For this particular setup, we've focused on creating a captivating display that combines video projections with synchronized LED lighting effects. It's designed to celebrate a special occasion — in this case, a birthday — with a unique and memorable Adele-themed experience.
 
 
